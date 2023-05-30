@@ -4,7 +4,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Available Scripts
 
-This project utilizes sanity for the backend
+This project utilizes sanity for the backend and SCSS for the styling.
 In the project directory, you can run:
 
 ### `npm start`
